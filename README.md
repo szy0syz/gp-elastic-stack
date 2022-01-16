@@ -1,0 +1,1 @@
+# gp-elastic-stack
